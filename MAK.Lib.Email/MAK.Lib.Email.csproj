@@ -1,0 +1,20 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>net6.0</TargetFramework>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+        <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+        <Version>0.0.0.2</Version>
+        <Authors>Maurice A Kelly @MAKMaurice</Authors>
+        <Company>Pragmatic Applications</Company>
+        <Description>A .NET6 Class Library for sending email.</Description>
+        <PackageReleaseNotes>A .NET 5.0 Class Library for sending email.</PackageReleaseNotes>
+        <PackageTags>.NET6 Class-Library sending-email.</PackageTags>
+        <RepositoryUrl>https://github.com/pragmatic-applications/Lib_Email</RepositoryUrl>
+        <RepositoryType>.NET6 Class Library</RepositoryType>
+        <Copyright>2021 Pragmatic Applications</Copyright>
+        <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    </PropertyGroup>
+
+</Project>
